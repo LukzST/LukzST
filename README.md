@@ -1,4 +1,4 @@
-<img src="./icon.png" align="left" width="200"/>
+<img src="https://lukzst.github.io/Public/IMG/team/lukz.png" align="left" width="200"/>
 
 ### `LukzST`
 
