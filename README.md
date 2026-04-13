@@ -1,4 +1,4 @@
-<img src="./icon.png" align="left" width="200"/>
+<img src="./lukz.png" align="left" width="200"/>
 
 ### `LukzST`
 
