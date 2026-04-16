@@ -1,18 +1,18 @@
-<div align="center"> 
+<div align="center">
 <img src="./image.png" width="200" name="lukz-avatar">
 
-# LukzST 
+# LukzST
 
-**Developer & Creator** 
+**Developer & Creator**
 
-*Crafting experiences through code.* 
+*Crafting experiences through code.*
 
 [Website](https://lukzst.github.io) • [Portfolio](https://github.com/LukzST) • [Download](https://lukzst.github.io/demo) • [Release Notes](https://lukzst.github.io/devlogs)
 </div>
 
 ---
 
-### Projects
+###Projects
 
 Currently focused on developing immersive experiences and interactive systems.
 
@@ -21,7 +21,8 @@ Currently focused on developing immersive experiences and interactive systems.
 ### `AnalisAI (Express Version)`
 ![Status](https://img.shields.io/badge/STATUS-OPERATIONAL-green) ![Environment](https://img.shields.io/badge/ENV-SENAI_CIC-red) ![Stack](https://img.shields.io/badge/STACK-PERN-blue)
 
-Plataforma de gestão pedagógica para o SENAI CIC. Converte dados brutos de avaliações em inteligência visual e monitoramento de competências.
+Pedagogical management platform, converts raw assessment data into visual intelligence and competency monitoring.
+
 > [View Repository](https://github.com/LukzST/AnalisAI-Express)
 
 <br>
@@ -31,7 +32,7 @@ Plataforma de gestão pedagógica para o SENAI CIC. Converte dados brutos de ava
 ### `AnalisAI (React + Vite)`
 ![Status](https://img.shields.io/badge/STATUS-OPERATIONAL-green) ![Environment](https://img.shields.io/badge/ENV-VITE_SUBSYSTEM-purple)
 
-Versão modernizada com React e Vite, focada em performance e UI Neo-brutalista reativa.
+Modernized version with React and Vite, focused on performance and reactive Neo-brutalist UI.
 * **Structure:** `/src` (Site), `/public` (Assets), `/server` (Backend).
 
 <br>
@@ -55,7 +56,7 @@ Embark on a dark and enigmatic textual journey. Uncover the secrets that haunt t
 
 ---
 
-### Tech Stack
+###Tech Stack
 
 | Category | Technologies |
 | :--- | :--- |
@@ -68,9 +69,9 @@ Embark on a dark and enigmatic textual journey. Uncover the secrets that haunt t
 
 ### GitHub Statistics
 
-![Stats de LukzST](https://github-readme-stats.vercel.app/api?username=LukzST&show_icons=true&theme=vision-glow)
+![LukzST Stats](https://github-readme-stats.vercel.app/api?username=LukzST&show_icons=true&theme=vision-glow)
 
-![Linguagens de LukzST](https://github-readme-stats.vercel.app/api/top-langs/?username=LukzST&layout=compact&theme=vision-glow)
+![LukzST Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LukzST&layout=compact&theme=vision-glow)
 
 ---
 
@@ -83,6 +84,6 @@ Whether to discuss game development, collaborations, or just to exchange ideas a
 
 ---
 
-<div align="center"> 
+<div align="center">
 <sub>Built with ☕ and 🌙 by LukzST</sub>
 </div>
