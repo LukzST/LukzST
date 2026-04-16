@@ -12,7 +12,7 @@
 
 ---
 
-## Projects
+### Projects
 
 Currently focused on developing immersive experiences and interactive systems.
 
@@ -60,7 +60,7 @@ Embark on a dark and enigmatic textual journey. Uncover the secrets that haunt t
 
 ---
 
-## Tech Stack
+### Tech Stack
 
 | Category | Technologies |
 | :--- | :--- |
@@ -71,7 +71,7 @@ Embark on a dark and enigmatic textual journey. Uncover the secrets that haunt t
 
 ---
 
-## GitHub Statistics
+### GitHub Statistics
 
 ![LukzST Stats](https://github-readme-stats.vercel.app/api?username=LukzST&show_icons=true&theme=vision-glow)
 
@@ -79,7 +79,7 @@ Embark on a dark and enigmatic textual journey. Uncover the secrets that haunt t
 
 ---
 
-## Connect with me
+### Connect with me
 
 Whether to discuss game development, collaborations, or just to exchange ideas about the abyss of *Pale Luna*:
 
