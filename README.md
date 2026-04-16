@@ -1,5 +1,5 @@
 <div align="center"> 
-<img src="./43182052(1).jpg" width="200" name="lukz-avatar">
+<img src="./image.png" width="200" name="lukz-avatar">
 
 # LukzST 
 
