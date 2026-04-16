@@ -12,7 +12,7 @@
 
 ---
 
-###Projects
+### Projects
 
 Currently focused on developing immersive experiences and interactive systems.
 
@@ -60,7 +60,7 @@ Embark on a dark and enigmatic textual journey. Uncover the secrets that haunt t
 
 ---
 
-###Tech Stack
+### Tech Stack
 
 | Category | Technologies |
 | :--- | :--- |
