@@ -33,7 +33,8 @@ Pedagogical management platform, converts raw assessment data into visual intell
 ![Status](https://img.shields.io/badge/STATUS-OPERATIONAL-green) ![Environment](https://img.shields.io/badge/ENV-VITE_SUBSYSTEM-purple)
 
 Modernized version with React and Vite, focused on performance and reactive Neo-brutalist UI.
-* **Structure:** `/src` (Site), `/public` (Assets), `/server` (Backend).
+
+> [View Repository](https://github.com/LukzST/AnalisAI-React)
 
 <br>
 
@@ -43,7 +44,8 @@ Modernized version with React and Vite, focused on performance and reactive Neo-
 ![Status](https://img.shields.io/badge/STATUS-OPERATIONAL-green) ![Version](https://img.shields.io/badge/VERSION-1.03-gold) ![OS](https://img.shields.io/badge/OS-TERMINAL_SUBSYSTEM-red)
 
 A psychological horror experience focused on narrative and terminal-based interaction. As Operator 07, you fight against the Fade.
-[Download](https://lukzxdd.itch.io/LIGHT) • [Devlogs](https://lukzst.github.io/devlogs)
+
+> [View Repository](https://github.com/LukzST/LIGHT) • [Download](https://lukzxdd.itch.io/LIGHT) • [Devlogs](https://lukzst.github.io/devlogs)
 
 <br>
 
@@ -53,6 +55,8 @@ A psychological horror experience focused on narrative and terminal-based intera
 ![Status](https://img.shields.io/badge/STATUS-STABLE-blue) ![Interface](https://img.shields.io/badge/CLI-TERMINAL-lightgrey)
 
 Embark on a dark and enigmatic textual journey. Uncover the secrets that haunt the sinister "Pale Luna" running directly in your Node.js terminal.
+
+> [View Repository](https://github.com/LukzST/Pale-Luna)
 
 ---
 
