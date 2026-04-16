@@ -12,7 +12,7 @@
 
 ---
 
-###Projects
+### Projects
 
 Currently focused on developing immersive experiences and interactive systems.
 
