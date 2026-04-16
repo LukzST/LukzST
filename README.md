@@ -1,5 +1,5 @@
 <div align="center"> 
-<img src="./lukz.png" width="200" align="center" /> 
+<img src="./43182052(1).jpg" width="200" style="border-radius: 200px" align="center" /> 
 
 # LukzST 
 
