@@ -36,7 +36,7 @@ Versão modernizada com React e Vite, focada em performance e UI Neo-brutalista 
 
 <br>
 
-#### <img src="./ICONS/game_png.png" width="90px" align="left">
+#### <img src="https://github.com/LukzST/LIGHT/blob/main/ICONS/game_png.png" width="90px" align="left">
 
 ### `LIGHT`
 ![Status](https://img.shields.io/badge/STATUS-OPERATIONAL-green) ![Version](https://img.shields.io/badge/VERSION-1.03-gold) ![OS](https://img.shields.io/badge/OS-TERMINAL_SUBSYSTEM-red)
@@ -46,7 +46,7 @@ A psychological horror experience focused on narrative and terminal-based intera
 
 <br>
 
-#### <img src="https://img.icons8.com/ios-filled/100/ffffff/moon-symbol.png" width="90px" align="left">
+#### <img src="https://github.com/LukzST/Pale-Luna/blob/main/icon.png" width="90px" align="left">
 
 ### `Pale Luna`
 ![Status](https://img.shields.io/badge/STATUS-STABLE-blue) ![Interface](https://img.shields.io/badge/CLI-TERMINAL-lightgrey)
@@ -55,7 +55,7 @@ Embark on a dark and enigmatic textual journey. Uncover the secrets that haunt t
 
 ---
 
-###Tech Stack
+### Tech Stack
 
 | Category | Technologies |
 | :--- | :--- |
