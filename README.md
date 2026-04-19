@@ -18,23 +18,12 @@ Currently focused on developing immersive experiences and interactive systems.
 
 #### <img src="https://github.com/LukzST/AnalisAI-Express/blob/main/Public/IMG/gitlogo.png?raw=true" width="90px" align="left">
 
-### `AnalisAI (Express Version)`
+### `AnalisAI`
 ![Status](https://img.shields.io/badge/STATUS-OPERATIONAL-green) ![Environment](https://img.shields.io/badge/ENV-SENAI_CIC-red) ![Stack](https://img.shields.io/badge/STACK-PERN-blue)
 
 Pedagogical management platform, converts raw assessment data into visual intelligence and competency monitoring.
 
 > [View Repository](https://github.com/LukzST/AnalisAI-Express)
-
-<br>
-
-#### <img src="https://github.com/LukzST/AnalisAI-Express/blob/main/Public/IMG/gitlogo.png?raw=true" width="90px" align="left">
-
-### `AnalisAI (React + Vite)`
-![Status](https://img.shields.io/badge/STATUS-OPERATIONAL-green) ![Environment](https://img.shields.io/badge/ENV-VITE_SUBSYSTEM-purple)
-
-Modernized version with React and Vite, focused on performance and reactive Neo-brutalist UI.
-
-> [View Repository](https://github.com/LukzST/AnalisAI-React)
 
 <br>
 
