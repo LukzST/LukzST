@@ -16,7 +16,7 @@
 
 Currently focused on developing immersive experiences and interactive systems.
 
-#### <img src="https://github.com/LukzST/AnalisAI-Express/blob/main/Public/IMG/gitlogo.png?raw=true" width="90px" align="left">
+#### <img src="https://github.com/LukzST/AnalisAI-Express/blob/main/src/Public/IMG/gitlogo.png?raw=true" width="90px" align="left">
 
 ### `AnalisAI`
 ![Status](https://img.shields.io/badge/STATUS-OPERATIONAL-green) ![Environment](https://img.shields.io/badge/ENV-SENAI_CIC-red) ![Stack](https://img.shields.io/badge/STACK-PERN-blue)
