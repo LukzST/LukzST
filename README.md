@@ -27,7 +27,7 @@ Pedagogical management platform, converts raw assessment data into visual intell
 
 <br>
 
-#### <img src="https://github.com/LukzST/lukzst.github.io/blob/main/public/IMG/logo-21.png?raw=true" width="90px" align="left">
+#### <img src="https://github.com/LukzST/lukzst.github.io/blob/main/public/img/icon-21.png?raw=true" width="90px" align="left">
 
 ### `Undead Pixel Games`
 ![Status](https://img.shields.io/badge/STATUS-OPERATIONAL-green)
