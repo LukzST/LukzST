@@ -27,12 +27,12 @@ Pedagogical management platform, converts raw assessment data into visual intell
 
 <br>
 
-#### <img src="https://github.com/LukzST/lukzst.github.io/blob/main/public/img/icon-21.png?raw=true" width="90px" align="left">
+#### <img src="https://github.com/LukzST/lukzst.github.io/blob/main\src\assets\images\aaaa.png?raw=true" width="90px" align="left">
 
-### `Undead Pixel Games`
+### `Unburied Pixels`
 ![Status](https://img.shields.io/badge/STATUS-OPERATIONAL-green)
 
-Making retro games with modern twists.
+An indie game studio that looks to bring being classic retro vibes with modern twists.
 
 > [View Repository](https://github.com/LukzST/lukzst.github.io) • [Check Out](https://lukzst.github.io/)
 
