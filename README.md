@@ -1,5 +1,4 @@
 <div align="center">
-**Developer & Creator**
 
 *Crafting experiences through code.*
 
