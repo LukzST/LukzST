@@ -2,7 +2,7 @@
 
 *Crafting experiences through code.*
 
-[Website](https://lukzst.github.io) • [Portfolio](https://github.com/LukzST) • [Download](https://lukzst.github.io/demo) • [Release Notes](https://lukzst.github.io/devlogs)
+[Website](https://lukzst.github.io) • [Portfolio](https://github.com/LukzST) • [Games](https://lukzst.github.io/#/games)
 </div>
 
 ---
