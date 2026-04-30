@@ -1,8 +1,4 @@
 <div align="center">
-<img src="./image.png" width="200" name="lukz-avatar">
-
-# LukzST
-
 **Developer & Creator**
 
 *Crafting experiences through code.*
