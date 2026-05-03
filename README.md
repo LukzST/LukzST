@@ -11,6 +11,16 @@
 
 Currently focused on developing immersive experiences and interactive systems.
 
+
+#### <img src="https://github.com/LukzST/Pale-Luna/blob/main/icon.png" width="90px" align="left">
+
+### `Pale Luna`
+![Status](https://img.shields.io/badge/STATUS-STABLE-blue) ![Interface](https://img.shields.io/badge/CLI-TERMINAL-lightgrey)
+
+Embark on a dark and enigmatic textual journey. Uncover the secrets that haunt the sinister "Pale Luna" running directly in your Node.js terminal.
+
+> [View Repository](https://github.com/LukzST/Pale-Luna)
+
 #### <img src="https://github.com/LukzST/AnalisAI-Express/blob/main/src/Public/IMG/gitlogo.png?raw=true" width="90px" align="left">
 
 ### `AnalisAI`
@@ -44,14 +54,6 @@ A psychological horror experience focused on narrative and terminal-based intera
 
 <br>
 
-#### <img src="https://github.com/LukzST/Pale-Luna/blob/main/icon.png" width="90px" align="left">
-
-### `Pale Luna`
-![Status](https://img.shields.io/badge/STATUS-STABLE-blue) ![Interface](https://img.shields.io/badge/CLI-TERMINAL-lightgrey)
-
-Embark on a dark and enigmatic textual journey. Uncover the secrets that haunt the sinister "Pale Luna" running directly in your Node.js terminal.
-
-> [View Repository](https://github.com/LukzST/Pale-Luna)
 
 ---
 
