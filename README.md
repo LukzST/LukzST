@@ -12,14 +12,14 @@
 Currently focused on developing immersive experiences and interactive systems.
 
 
-#### <img src="https://github.com/LukzST/Pale-Luna/blob/main/icon.png" width="90px" align="left">
+#### <img src="https://github.com/LukzST/INSOMNIA/blob/main/icon.ico" width="90px" align="left">
 
-### `Pale Luna`
-![Status](https://img.shields.io/badge/STATUS-STABLE-blue) ![Interface](https://img.shields.io/badge/CLI-TERMINAL-lightgrey)
+### `INSOMNIA`
+![Version](https://img.shields.io/badge/VERSION-001a-gold)
 
-Embark on a dark and enigmatic textual journey. Uncover the secrets that haunt the sinister "Pale Luna" running directly in your Node.js terminal.
+In a world where the clock never moves, silence is your only companion.
 
-> [View Repository](https://github.com/LukzST/Pale-Luna)
+> [View Repository](https://github.com/LukzST/INSOMNIA)
 
 #### <img src="https://github.com/LukzST/AnalisAI-Express/blob/main/src/Public/IMG/gitlogo.png?raw=true" width="90px" align="left">
 
