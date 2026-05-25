@@ -28,7 +28,7 @@ In a world where the clock never moves, silence is your only companion.
 
 Pedagogical management platform, converts raw assessment data into visual intelligence and competency monitoring.
 
-> [View Repository](https://github.com/luxjson/AnalisAI-Express) • [Check Out](https://analisai-2pp1.onrender.com)
+> [View Repository](https://github.com/luxjson/AnalisAI-Express) • [Check Out](https://anls-ai.onrender.com/)
 
 <br>
 
