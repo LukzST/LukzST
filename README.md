@@ -32,9 +32,9 @@ Pedagogical management platform, converts raw assessment data into visual intell
 
 <br>
 
-#### <img src="https://github.com/luxjson/lukzst.github.io/blob/main\src\assets\images\aaaa.png?raw=true" width="90px" align="left">
+#### <img src="https://github.com/luxjson/lukzst.github.io/blob/main\src\assets\images\i.png?raw=true" width="90px" align="left">
 
-### `Unburied Pixels`
+### `Insomnia Website`
 ![Status](https://img.shields.io/badge/STATUS-OPERATIONAL-green)
 
 An indie game studio that looks to bring being classic retro vibes with modern twists.
