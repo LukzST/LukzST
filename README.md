@@ -12,6 +12,17 @@
 Currently focused on developing immersive experiences and interactive systems.
 
 
+#### <img src="https://github.com/luxjson/lukzst.github.io/blob/main\src\assets\images\icon.png?raw=true" width="90px" align="left">
+
+### `SOMIARI Website`
+![Status](https://img.shields.io/badge/STATUS-OPERATIONAL-green)
+
+An indie game studio that looks to bring being classic retro vibes with modern twists.
+
+> [View Repository](https://github.com/luxjson/lukzst.github.io) • [Check Out](https://luxjson.github.io/)
+
+<br>
+
 #### <img src="https://github.com/luxjson/INSOMNIA/blob/main/icon.ico" width="90px" align="left">
 
 ### `INSOMNIA`
@@ -29,17 +40,6 @@ In a world where the clock never moves, silence is your only companion.
 Pedagogical management platform, converts raw assessment data into visual intelligence and competency monitoring.
 
 > [View Repository](https://github.com/luxjson/AnalisAI-Express) • [Check Out](https://anls-ai.onrender.com/)
-
-<br>
-
-#### <img src="https://github.com/luxjson/lukzst.github.io/blob/main\src\assets\images\icon.png?raw=true" width="90px" align="left">
-
-### `SOMIARI Website`
-![Status](https://img.shields.io/badge/STATUS-OPERATIONAL-green)
-
-An indie game studio that looks to bring being classic retro vibes with modern twists.
-
-> [View Repository](https://github.com/luxjson/lukzst.github.io) • [Check Out](https://luxjson.github.io/)
 
 <br>
 
