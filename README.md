@@ -2,7 +2,7 @@
 
 *Crafting experiences through code.*
 
-[Website](https://luxjson.github.io) • [Portfolio](https://github.com/luxjson) • [Games](https://luxjson.github.io/#/games)
+[Portfolio](https://luxjson.github.io)
 </div>
 
 ---
@@ -19,7 +19,7 @@ Currently focused on developing immersive experiences and interactive systems.
 
 An indie game studio that looks to bring being classic retro vibes with modern twists.
 
-> [View Repository](https://github.com/luxjson/lukzst.github.io) • [Check Out](https://luxjson.github.io/)
+> [View Repository](https://github.com/luxjson/lukzst.github.io) • [Check Out](https://smistudio.github.io/)
 
 <br>
 
