@@ -12,7 +12,7 @@
 Currently focused on developing immersive experiences and interactive systems.
 
 
-#### <img src="https://github.com/luxjson/lukzst.github.io/blob/main\src\assets\images\icon.png?raw=true" width="90px" align="left">
+#### <img src="https://github.com/somiaristudio/somiaristudio.github.io/blob/main\src\assets\images\icon.png?raw=true" width="90px" align="left">
 
 ### `SOMIARI Website`
 ![Status](https://img.shields.io/badge/STATUS-OPERATIONAL-green)
