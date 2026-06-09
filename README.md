@@ -19,7 +19,7 @@ Currently focused on developing immersive experiences and interactive systems.
 
 An indie game studio that looks to bring being classic retro vibes with modern twists.
 
-> [View Repository](https://github.com/smistudio/smistudio.github.io) • [Check Out](https://smistudio.github.io/)
+> [View Repository](https://github.com/somiaristudio/somiaristudio.github.io) • [Check Out](https://somiaristudio.github.io/)
 
 <br>
 
