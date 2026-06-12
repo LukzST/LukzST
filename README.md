@@ -30,7 +30,7 @@ An indie game studio that looks to bring being classic retro vibes with modern t
 
 In a world where the clock never moves, silence is your only companion.
 
-> [View Repository](https://github.com/LukzST/INSOMNIA)
+> [View Repository](https://github.com/luxjson/Insomnia)
 
 #### <img src="https://github.com/luxjson/AnalisAI-Express/blob/main/src/Public/IMG/gitlogo.png?raw=true" width="90px" align="left">
 
