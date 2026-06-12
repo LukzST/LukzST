@@ -23,7 +23,7 @@ An indie game studio that looks to bring being classic retro vibes with modern t
 
 <br>
 
-#### <img src="https://github.com/luxjson/INSOMNIA/blob/main/icon.ico" width="90px" align="left">
+#### <img src="https://github.com/luxjson/Insomnia/blob/main/icon.ico" width="90px" align="left">
 
 ### `Insomnia`
 ![Version](https://img.shields.io/badge/VERSION-0.0.2-gold)
