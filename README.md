@@ -25,7 +25,7 @@ An indie game studio that looks to bring being classic retro vibes with modern t
 
 #### <img src="https://github.com/luxjson/INSOMNIA/blob/main/icon.ico" width="90px" align="left">
 
-### `INSOMNIA`
+### `Insomnia`
 ![Version](https://img.shields.io/badge/VERSION-0.0.2-gold)
 
 In a world where the clock never moves, silence is your only companion.
