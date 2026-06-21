@@ -14,7 +14,7 @@ Currently focused on developing immersive experiences and interactive systems.
 #### <img src="https://github.com/luxjson/Insomnia/blob/main/icon.ico" width="90px" align="left">
 
 ### `Insomnia`
-![Version](https://img.shields.io/badge/VERSION-0.0.2-gold)
+![Version](https://img.shields.io/badge/VERSION-0.03b-gold)
 
 In a world where the clock never moves, silence is your only companion.
 
