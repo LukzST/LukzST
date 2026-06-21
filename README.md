@@ -11,18 +11,6 @@
 
 Currently focused on developing immersive experiences and interactive systems.
 
-
-#### <img src="https://github.com/somiaristudio/somiaristudio.github.io/blob/main\src\assets\images\icon.png?raw=true" width="90px" align="left">
-
-### `SOMIARI Website`
-![Status](https://img.shields.io/badge/STATUS-OPERATIONAL-green)
-
-An indie game studio that looks to bring being classic retro vibes with modern twists.
-
-> [View Repository](https://github.com/somiaristudio/somiaristudio.github.io) • [Check Out](https://somiaristudio.github.io/)
-
-<br>
-
 #### <img src="https://github.com/luxjson/Insomnia/blob/main/icon.ico" width="90px" align="left">
 
 ### `Insomnia`
@@ -81,7 +69,7 @@ A psychological horror experience focused on narrative and terminal-based intera
 Whether to discuss game development, collaborations, or just to exchange ideas about the abyss of *Pale Luna*:
 
 * **Discord**: `luxjson`
-* **Email**: `lucaseduarte6@gmail.com`
+* **Email**: `luxjson@gmail.com`
 
 ---
 
