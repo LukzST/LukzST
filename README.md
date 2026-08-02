@@ -37,7 +37,7 @@ Pedagogical management platform, converts raw assessment data into visual intell
 
 A psychological horror experience focused on narrative and terminal-based interaction. As Operator 07, you fight against the Fade.
 
-> [View Repository](https://github.com/luxjson/LIGHT) • [Download](https://UnburiedPixels.itch.io/LIGHT) • [Devlogs](https://luxjson.github.io/devlogs)
+> [View Repository](https://github.com/luxjson/LIGHT) • [Download](https://somiari.itch.io/LIGHT) • [Devlogs](https://luxjson.github.io/devlogs)
 
 <br>
 
