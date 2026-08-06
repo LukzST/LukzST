@@ -1,6 +1,7 @@
 <div align="center">
-  <img width="100%" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnZ4bmY2bmRjcm0zNWlsZm5rbGFxeXRydTN6dzAxcXNudXFiYnR5NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPnAiaMCws8nOsE/giphy.gif" alt="luxjson header" />
+  <img width="100%" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2FwdGFwbGJvd3M2ZG9yMzN6eGprZXRidm5nZzlsbzB5dmI5OWpsOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT1R3st1yI9w248wR2/giphy.gif" alt="luxjson header" />
 </div>
+
 
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=2500&pause=800&color=C084FC&center=true&vCenter=true&width=900&lines=SYSTEM+BOOTING...;GAME+DEV+%2C%7C+FULL+STACK+DEVELOPER;PERN+STACK+%7C+JAVASCRIPT;INTERACTIVE+SYSTEMS+%7C+INDIE+GAMES;WELCOME+TO+MY+CODE+UNIVERSE"/>
