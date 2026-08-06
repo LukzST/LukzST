@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&height=320&color=0:020617,50:1e3a8a,100:2563eb&text=luxjson&fontFamily=Fira%20Code&fontSize=75&fontColor=ffffff&stroke=020617&strokeWidth=2&animation=fadeIn&fontAlignY=38"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=280&color=0:030712,30:0f172a,70:1d4ed8,100:3b82f6&text=luxjson&fontFamily=Orbitron&fontSize=75&fontColor=ffffff&stroke=1d4ed8&strokeWidth=1&animation=fadeIn&fontAlignY=45"/>
 
 
 
