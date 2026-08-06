@@ -2,11 +2,10 @@
   <img width="100%" src="./pattern-ezgif.com-crop.gif" alt="luxjson header" />
 </div>
 
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2500&pause=800&color=38BDF8&center=true&vCenter=true&width=900&lines=GAME+DEV+%26+FULL+STACK+DEVELOPER;BUILDING+INTERACTIVE+SYSTEMS+%26+INDIE+GAMES;PERN+STACK+%7C+JAVASCRIPT+%7C+WEB+APIS;CRAFTING+EXPERIENCES+THROUGH+CODE" alt="Subtitulo luxjson" />
+</div>
 
-
-
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=2500&pause=800&color=C084FC&center=true&vCenter=true&width=900&lines=SYSTEM+BOOTING...;GAME+DEV+%2C%7C+FULL+STACK+DEVELOPER;PERN+STACK+%7C+JAVASCRIPT;INTERACTIVE+SYSTEMS+%7C+INDIE+GAMES;WELCOME+TO+MY+CODE+UNIVERSE"/>
 
 </div>
 
