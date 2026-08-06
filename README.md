@@ -1,8 +1,5 @@
-README.md (GitHub Profile)
-<div align="center">
-<div align="center">
-  <img width="100%" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=50&duration=2000&pause=800&color=38BDF8&center=true&vCenter=true&width=1000&height=220&lines=luxjson;GAME+DEV+%7C+FULL+STACK;INTERACTIVE+SYSTEMS;WELCOME+TO+THE+VOID" alt="Header luxjson" />
-</div>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&height=320&color=0:020617,50:1e3a8a,100:2563eb&text=luxjson&fontFamily=Fira%20Code&fontSize=75&fontColor=ffffff&stroke=020617&strokeWidth=2&animation=fadeIn&fontAlignY=38"/>
+
 
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=2500&pause=800&color=C084FC&center=true&vCenter=true&width=900&lines=SYSTEM+BOOTING...;GAME+DEV+%2C%7C+FULL+STACK+DEVELOPER;PERN+STACK+%7C+JAVASCRIPT;INTERACTIVE+SYSTEMS+%7C+INDIE+GAMES;WELCOME+TO+MY+CODE+UNIVERSE"/>
