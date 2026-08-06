@@ -1,77 +1,197 @@
+README.md (GitHub Profile)
 <div align="center">
 
-*Crafting experiences through code.*
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:050505,50:6d28d9,100:a855f7&text=LUCAS%20DUARTE&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 
-[Portfolio](https://luxjson.github.io)
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=2500&pause=800&color=C084FC&center=true&vCenter=true&width=900&lines=SYSTEM+BOOTING...;GAME+DEV+%2C%7C+FULL+STACK+DEVELOPER;PERN+STACK+%7C+JAVASCRIPT;INTERACTIVE+SYSTEMS+%7C+INDIE+GAMES;WELCOME+TO+MY+CODE+UNIVERSE"/>
+
 </div>
 
 ---
 
-### Projects
+## LUXJSON CORE
 
-Currently focused on developing immersive experiences and interactive systems.
+```bash
+╭────────────────────────────╮
+│     LUXJSON SYSTEM v2.0    │
+╰────────────────────────────╯
 
-#### <img src="https://github.com/luxjson/Insomnia/blob/main/icon.ico" width="90px" align="left">
+Initializing system...
 
-### `Insomnia`
-![Version](https://img.shields.io/badge/VERSION-0.03b-gold)
+████████████████████ 100%
 
-In a world where the clock never moves, silence is your only companion.
+✔ Game designer detected
+✔ Full stack modules loaded
+✔ Code engine active
+✔ Projects loaded
 
-> [View Repository](https://github.com/luxjson/Insomnia)
+STATUS: ONLINE
+```
 
-#### <img src="https://github.com/luxjson/AnalisAI-Express/blob/main/src/Public/IMG/gitlogo.png?raw=true" width="90px" align="left">
+---
 
-### `AnalisAI`
-![Status](https://img.shields.io/badge/STATUS-OPERATIONAL-green) ![Environment](https://img.shields.io/badge/ENV-SENAI_CIC-red) ![Stack](https://img.shields.io/badge/STACK-PERN-blue)
+## About Me
 
-Pedagogical management platform, converts raw assessment data into visual intelligence and competency monitoring.
+```javascript
+const Lucas = {
 
-> [View Repository](https://github.com/luxjson/AnalisAI-Express)
+ name: "Lucas Duarte",
+
+ alias: "luxjson",
+
+ role: "Game Developer & Full Stack Dev",
+
+ location: "São Paulo, Brazil",
+
+ stack: {
+    frontend: [
+      "React",
+      "JavaScript",
+      "HTML",
+      "CSS"
+    ],
+
+    backend: [
+      "Node.js",
+      "Express",
+      "PostgreSQL"
+    ],
+
+    gamedev: [
+      "JavaScript",
+      "Canvas/Web APIs",
+      "Aseprite",
+      "Blender"
+    ]
+ },
+
+ tools: [
+   "Git",
+   "GitHub",
+   "Render",
+   "Vercel",
+   "VS Code"
+ ],
+
+ mission:
+ "Crafting experiences, narrative horror, and visual intelligence through code."
+
+}
+```
+
+---
+
+## Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=js,react,nodejs,express,postgres,html,css,git,github,vscode,render,vercel&perline=6"/>
+
+</div>
+
+---
+
+## Featured Projects
+
+| Project | Description | Stack / Info |
+|---|---|---|
+| **LIGHT** | Psychological horror experience focused on narrative and terminal-based interaction. As Operator 07, fight against the Fade. | `Terminal Subsystem` • `JS` |
+| **AnalisAI** | Pedagogical management platform converting raw assessment data into visual intelligence and competency monitoring. | `PERN Stack` • `SENAI` |
+| **Insomnia** | In a world where the clock never moves, silence is your only companion. | `Game Dev` • `v0.03b` |
+
+---
+
+## Current Mission
+
+```bash
+> Loading objectives...
+
+[██████████] Web & Application Architecture
+
+[████████░░] Interactive Systems & Mechanics
+
+[███████░░░] Game Design & Narrative Development
+
+[██████████] Crafting Digital Experiences
+
+STATUS:
+Executing runtime...
+```
+
+---
+
+## GitHub Analytics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=luxjson&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luxjson&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
 <br>
 
-#### <img src="https://github.com/luxjson/LIGHT/blob/main/ICONS/game_png.png" width="90px" align="left">
+<div align="center">
 
-### `LIGHT`
-![Status](https://img.shields.io/badge/STATUS-OPERATIONAL-green) ![Version](https://img.shields.io/badge/VERSION-1.03-gold) ![OS](https://img.shields.io/badge/OS-TERMINAL_SUBSYSTEM-red)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=luxjson&theme=tokyonight&hide_border=true"/>
 
-A psychological horror experience focused on narrative and terminal-based interaction. As Operator 07, you fight against the Fade.
+</div>
 
-> [View Repository](https://github.com/luxjson/LIGHT) • [Download](https://somiari.itch.io/LIGHT) • [Devlogs](https://luxjson.github.io/devlogs)
+---
+
+## GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=luxjson&theme=tokyonight&no-frame=true&margin-w=15"/>
+
+</div>
+
+---
+
+## Contribution Animation
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/luxjson/luxjson/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
+
+---
+
+## Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/luxjson">
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="mailto:luxjson@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://luxjson.github.io">
+<img src="https://img.shields.io/badge/Portfolio-8A2BE2?style=for-the-badge&logo=firefox&logoColor=white"/>
+</a>
+
+</div>
 
 <br>
 
-
----
-
-### Tech Stack
-
-| Category | Technologies |
-| :--- | :--- |
-| **Languages** | React, JavaScript, HTML and CSS|
-| **Game Dev** | JS |
-| **Web** | React, Node.js |
-| **Tools** | Git, Aseprite, Blender |
-
----
-
-### GitHub Statistics
-
-![luxjson Stats](https://github-readme-stats.vercel.app/api?username=luxjson&show_icons=true&theme=vision-glow)
-
-![luxjson Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=luxjson&layout=compact&theme=vision-glow)
-
----
-
-### Connect with me
-
-Whether to discuss game development, collaborations, or just to exchange ideas about the abyss of *Pale Luna*:
-
-* **Discord**: `luxjson`
-* **Email**: `luxjson@gmail.com`
+<div align="center">
+<b>Discord:</b> <code>luxjson</code>
+</div>
 
 ---
 
 <div align="center">
-<sub>Built with ☕ and 🌙 by luxjson</sub>
+
+### "Crafting experiences through code."
+
+<img src="https://komarev.com/ghpvc/?username=luxjson&style=for-the-badge&color=8A2BE2"/>
+
 </div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:050505,50:6d28d9,100:a855f7"/>
