@@ -1,6 +1,7 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=250&color=0:020617,50:0f2771,100:1d4ed8&text=luxjson&fontFamily=Press%20Start%202P&fontSize=50&fontColor=ffffff&stroke=38bdf8&strokeWidth=2&animation=twinkle&fontAlignY=50"/>
+  <img width="100%" src="./pattern-ezgif.com-crop.gif" alt="luxjson header" />
 </div>
+
 
 
 
