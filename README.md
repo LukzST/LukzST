@@ -1,5 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:0F172A,30:1D4ED8,70:3B82F6,100:60A5FA&text=luxjson&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Building%20interactive%20experiences.&descSize=22&descAlignY=58"/>
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:1a1b26,30:7aa2f7,70:bb9af7,100:7dcfff&text=luxjson&fontSize=72&fontColor=c0caf5&animation=fadeIn&fontAlignY=36&desc=Building%20interactive%20experiences.&descSize=22&descAlignY=58"/>
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2500&pause=800&color=38BDF8&center=true&vCenter=true&width=900&lines=GAME+DEV+%26+FULL+STACK+DEVELOPER;BUILDING+INTERACTIVE+SYSTEMS+%26+INDIE+GAMES;PERN+STACK+%7C+JAVASCRIPT+%7C+WEB+APIs;CRAFTING+EXPERIENCES+THROUGH+CODE" alt="Typing Animation" />
@@ -185,6 +184,100 @@ const Lucas = {
 
 | Project | Description | Technologies |
 |----------|-------------|--------------|
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:0F172A,30:1D4ED8,70:3B82F6,100:60A5FA&text=luxjson&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Building%20interactive%20experiences.&descSize=22&descAlignY=58"/>
+
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2500&pause=800&color=38BDF8&center=true&vCenter=true&width=900&lines=GAME+DEV+%26+FULL+STACK+DEVELOPER;BUILDING+INTERACTIVE+SYSTEMS+%26+INDIE+GAMES;PERN+STACK+%7C+JAVASCRIPT+%7C+WEB+APIs;CRAFTING+EXPERIENCES+THROUGH+CODE" alt="Typing Animation" />
+</div>
+
+---
+
+# LUXJSON CORE
+
+```bash
+╭────────────────────────────╮
+│     LUXJSON SYSTEM v2.0    │
+╰────────────────────────────╯
+
+Initializing system...
+
+████████████████████ 100%
+
+✔ Game Developer detected
+✔ Full Stack modules loaded
+✔ Code engine active
+✔ Projects loaded
+
+STATUS: ONLINE
+```
+
+---
+
+# About Me
+
+```javascript
+const Lucas = {
+  name: "Lucas Eduardo Duarte Pereira",
+
+  alias: "luxjson",
+
+  role: "Game Developer & Full Stack Developer",
+
+  location: "São Paulo, Brazil",
+
+  stack: {
+    frontend: [
+      "React",
+      "Next.js",
+      "JavaScript",
+      "HTML",
+      "CSS"
+    ],
+
+    backend: [
+      "Node.js",
+      "Express",
+      "PostgreSQL"
+    ],
+
+    gamedev: [
+      "JavaScript",
+      "Canvas API",
+      "Web APIs",
+      "Aseprite"
+    ]
+  },
+
+  tools: [
+    "Git",
+    "GitHub",
+    "Render",
+    "Vercel",
+    "VS Code"
+  ],
+
+  mission:
+    "Building immersive digital experiences through clean code, game design, and interactive systems."
+};
+```
+
+---
+
+# Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=js,react,nodejs,express,postgres,html,css,git,github,vscode,render,vercel&perline=6"/>
+
+</div>
+
+---
+
+# Featured Projects
+
+| Project | Description | Technologies |
+|----------|-------------|--------------|
 | **LIGHT** | Psychological horror game focused on narrative, terminal interaction, and immersive storytelling. Play as Operator 07 and survive the Fade. | `JavaScript` • `Canvas API` • `Terminal System` |
 | **AnalisAI** | Educational management platform that transforms assessment data into visual insights for competency monitoring. | `PERN Stack` • `PostgreSQL` • `SENAI` |
 | **Insomnia** | Narrative-driven indie horror game set in a world where time has stopped and silence becomes your greatest enemy. | `Game Development` • `v0.03b` |
@@ -193,7 +286,7 @@ const Lucas = {
 
 # Current Mission
 
-&#9641;&#9641;&#9641;bash
+```bash
 > Loading objectives...
 
 [██████████] Full Stack Development
@@ -206,7 +299,7 @@ const Lucas = {
 
 STATUS:
 Executing runtime...
-&#9641;&#9641;&#9641;
+```
 
 ---
 
@@ -244,7 +337,7 @@ Executing runtime...
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=luxjson&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=luxjson&theme=react-dark&hide_border=true" />
 
 </div>
 
@@ -255,15 +348,15 @@ Executing runtime...
 <div align="center">
 
 <a href="https://github.com/luxjson">
-<img src="https://img.shields.io/badge/GitHub-1a1b26?style=for-the-badge&logo=github&logoColor=7dcfff"/>
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github"/>
 </a>
 
 <a href="mailto:luxjson@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-1a1b26?style=for-the-badge&logo=gmail&logoColor=f7768e"/>
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://luxjson.github.io">
-<img src="https://img.shields.io/badge/Portfolio-1a1b26?style=for-the-badge&logo=firefox&logoColor=bb9af7"/>
+<img src="https://img.shields.io/badge/Portfolio-8A2BE2?style=for-the-badge&logo=firefox&logoColor=white"/>
 </a>
 
 </div>
@@ -280,9 +373,5 @@ Executing runtime...
 
 ### Crafting experiences through code.
 
-<img src="https://komarev.com/ghpvc/?username=luxjson&style=for-the-badge&color=7aa2f7"/>
-
-</div>
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:1a1b26,50:7aa2f7,100:bb9af7"/>
-
+</div>
