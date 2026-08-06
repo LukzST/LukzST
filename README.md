@@ -134,7 +134,7 @@ Executing runtime...
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=luxjson&theme=tokyonight&row=1" />
+<img src="https://github-profile-trophy-max.vercel.app/?username=luxjson&theme=tokyonight&column=3" />
 
 </div>
 
