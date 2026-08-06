@@ -130,11 +130,11 @@ Executing runtime...
 
 ---
 
-# GitHub Trophies
+# GitHub Achievements
 
 <div align="center">
 
-<img src="https://github-profile-trophy-max.vercel.app/?username=luxjson&theme=tokyonight&column=3" />
+<img src="https://github-readme-achievements.vercel.app/api?username=luxjson&theme=tokyonight&show_unearned=true" />
 
 </div>
 
