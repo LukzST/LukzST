@@ -70,7 +70,7 @@ const Lucas = {
 # Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,react,nextjs,nodejs,express,postgres,html,css,git,github,vscode,vercel&perline=5" />
+  <img src="https://skillicons.dev/icons?i=js,react,nextjs,nodejs,express,postgres,html,css,git,github,vscode,vercel,neon&perline=5" />
 </div>
 
 
