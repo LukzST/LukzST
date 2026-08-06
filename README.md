@@ -8,7 +8,7 @@
 
 # LUXJSON CORE
 
-&#9641;&#9641;&#9641;bash
+```bash
 ╭────────────────────────────╮
 │     LUXJSON SYSTEM v2.0    │
 ╰────────────────────────────╯
@@ -23,13 +23,13 @@ Initializing system...
 ✔ Projects loaded
 
 STATUS: ONLINE
-&#9641;&#9641;&#9641;
+```
 
 ---
 
 # About Me
 
-&#9641;&#9641;&#9641;javascript
+```javascript
 const Lucas = {
   name: "Lucas Eduardo Duarte Pereira",
 
@@ -73,7 +73,7 @@ const Lucas = {
   mission:
     "Building immersive digital experiences through clean code, game design, and interactive systems."
 };
-&#9641;&#9641;&#9641;
+```
 
 ---
 
@@ -81,7 +81,7 @@ const Lucas = {
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=js,react,nodejs,express,postgres,html,css,git,github,vscode,render,vercel&theme=tokyonight&perline=6"/>
+<img src="https://skillicons.dev/icons?i=js,react,nodejs,express,postgres,html,css,git,github,vscode,render,vercel&perline=6"/>
 
 </div>
 
@@ -99,7 +99,7 @@ const Lucas = {
 
 # Current Mission
 
-&#9641;&#9641;&#9641;bash
+```bash
 > Loading objectives...
 
 [██████████] Full Stack Development
@@ -112,7 +112,7 @@ const Lucas = {
 
 STATUS:
 Executing runtime...
-&#9641;&#9641;&#9641;
+```
 
 ---
 
