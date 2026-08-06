@@ -1,7 +1,8 @@
 README.md (GitHub Profile)
 <div align="center">
-
-  <img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Header Animado" />
+<div align="center">
+  <img width="100%" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=50&duration=2000&pause=800&color=38BDF8&center=true&vCenter=true&width=1000&height=220&lines=luxjson;GAME+DEV+%7C+FULL+STACK;INTERACTIVE+SYSTEMS;WELCOME+TO+THE+VOID" alt="Header luxjson" />
+</div>
 
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=2500&pause=800&color=C084FC&center=true&vCenter=true&width=900&lines=SYSTEM+BOOTING...;GAME+DEV+%2C%7C+FULL+STACK+DEVELOPER;PERN+STACK+%7C+JAVASCRIPT;INTERACTIVE+SYSTEMS+%7C+INDIE+GAMES;WELCOME+TO+MY+CODE+UNIVERSE"/>
