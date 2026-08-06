@@ -73,7 +73,7 @@ const Lucas = {
 
 ---
 
-# Tech Stack
+# Stack
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=js,react,nextjs,nodejs,express,postgres,html,css,git,github,vscode,vercel,netlify&perline=5" />
@@ -91,7 +91,7 @@ const Lucas = {
 
 ---
 
-# Current Mission
+# Mission
 
 ```bash
 > Loading objectives...
@@ -110,7 +110,7 @@ Executing runtime...
 
 ---
 
-# GitHub Analytics
+# Analytics
 
 <div align="center">
 
@@ -130,7 +130,7 @@ Executing runtime...
 
 ---
 
-# GitHub Achievements
+# Achievements
 
 <div align="center">
 
@@ -140,7 +140,7 @@ Executing runtime...
 
 ---
 
-# Contribution Animation
+# Contributions
 
 <div align="center">
 
