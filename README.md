@@ -1,7 +1,7 @@
 README.md (GitHub Profile)
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:050505,50:6d28d9,100:a855f7&text=LUCAS%20DUARTE&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:020617,50:1e3a8a,100:2563eb&text=luxjson&fontSize=65&fontColor=ffffff&fontAuto=true&animation=fadeIn&fontAlignY=35"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=2500&pause=800&color=C084FC&center=true&vCenter=true&width=900&lines=SYSTEM+BOOTING...;GAME+DEV+%2C%7C+FULL+STACK+DEVELOPER;PERN+STACK+%7C+JAVASCRIPT;INTERACTIVE+SYSTEMS+%7C+INDIE+GAMES;WELCOME+TO+MY+CODE+UNIVERSE"/>
 
