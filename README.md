@@ -35,7 +35,7 @@ STATUS: ONLINE
 ```javascript
 const Lucas = {
 
- name: "Lucas Duarte",
+ name: "Lucas Eduardo Duarte Pereira",
 
  alias: "luxjson",
 
@@ -46,6 +46,7 @@ const Lucas = {
  stack: {
     frontend: [
       "React",
+      "Next.js"
       "JavaScript",
       "HTML",
       "CSS"
@@ -61,7 +62,6 @@ const Lucas = {
       "JavaScript",
       "Canvas/Web APIs",
       "Aseprite",
-      "Blender"
     ]
  },
 
