@@ -3,15 +3,12 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2500&pause=800&color=38BDF8&center=true&vCenter=true&width=900&lines=GAME+DEV+%26+FULL+STACK+DEVELOPER;BUILDING+INTERACTIVE+SYSTEMS+%26+INDIE+GAMES;PERN+STACK+%7C+JAVASCRIPT+%7C+WEB+APIS;CRAFTING+EXPERIENCES+THROUGH+CODE" alt="Subtitulo luxjson" />
-</div>
-
-
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2500&pause=800&color=38BDF8&center=true&vCenter=true&width=900&lines=GAME+DEV+%26+FULL+STACK+DEVELOPER;BUILDING+INTERACTIVE+SYSTEMS+%26+INDIE+GAMES;PERN+STACK+%7C+JAVASCRIPT+%7C+WEB+APIs;CRAFTING+EXPERIENCES+THROUGH+CODE" alt="Typing Animation" />
 </div>
 
 ---
 
-## LUXJSON CORE
+# LUXJSON CORE
 
 ```bash
 ╭────────────────────────────╮
@@ -22,8 +19,8 @@ Initializing system...
 
 ████████████████████ 100%
 
-✔ Game designer detected
-✔ Full stack modules loaded
+✔ Game Developer detected
+✔ Full Stack modules loaded
 ✔ Code engine active
 ✔ Projects loaded
 
@@ -32,23 +29,22 @@ STATUS: ONLINE
 
 ---
 
-## About Me
+# About Me
 
 ```javascript
 const Lucas = {
+  name: "Lucas Eduardo Duarte Pereira",
 
- name: "Lucas Eduardo Duarte Pereira",
+  alias: "luxjson",
 
- alias: "luxjson",
+  role: "Game Developer & Full Stack Developer",
 
- role: "Game Developer & Full Stack Dev",
+  location: "São Paulo, Brazil",
 
- location: "São Paulo, Brazil",
-
- stack: {
+  stack: {
     frontend: [
       "React",
-      "Next.js"
+      "Next.js",
       "JavaScript",
       "HTML",
       "CSS"
@@ -62,28 +58,28 @@ const Lucas = {
 
     gamedev: [
       "JavaScript",
-      "Canvas/Web APIs",
-      "Aseprite",
+      "Canvas API",
+      "Web APIs",
+      "Aseprite"
     ]
- },
+  },
 
- tools: [
-   "Git",
-   "GitHub",
-   "Render",
-   "Vercel",
-   "VS Code"
- ],
+  tools: [
+    "Git",
+    "GitHub",
+    "Render",
+    "Vercel",
+    "VS Code"
+  ],
 
- mission:
- "Crafting experiences, narrative horror, and visual intelligence through code."
-
-}
+  mission:
+    "Building immersive digital experiences through clean code, game design, and interactive systems."
+};
 ```
 
 ---
 
-## Tech Stack
+# Tech Stack
 
 <div align="center">
 
@@ -93,28 +89,28 @@ const Lucas = {
 
 ---
 
-## Featured Projects
+# Featured Projects
 
-| Project | Description | Stack / Info |
-|---|---|---|
-| **LIGHT** | Psychological horror experience focused on narrative and terminal-based interaction. As Operator 07, fight against the Fade. | `Terminal Subsystem` • `JS` |
-| **AnalisAI** | Pedagogical management platform converting raw assessment data into visual intelligence and competency monitoring. | `PERN Stack` • `SENAI` |
-| **Insomnia** | In a world where the clock never moves, silence is your only companion. | `Game Dev` • `v0.03b` |
+| Project | Description | Technologies |
+|----------|-------------|--------------|
+| **LIGHT** | Psychological horror game focused on narrative, terminal interaction, and immersive storytelling. Play as Operator 07 and survive the Fade. | `JavaScript` • `Canvas API` • `Terminal System` |
+| **AnalisAI** | Educational management platform that transforms assessment data into visual insights for competency monitoring. | `PERN Stack` • `PostgreSQL` • `SENAI` |
+| **Insomnia** | Narrative-driven indie horror game set in a world where time has stopped and silence becomes your greatest enemy. | `Game Development` • `v0.03b` |
 
 ---
 
-## Current Mission
+# Current Mission
 
 ```bash
 > Loading objectives...
 
-[██████████] Web & Application Architecture
+[██████████] Full Stack Development
 
-[████████░░] Interactive Systems & Mechanics
+[████████░░] Interactive Systems
 
-[███████░░░] Game Design & Narrative Development
+[████████░░] Game Design
 
-[██████████] Crafting Digital Experiences
+[██████████] Digital Experiences
 
 STATUS:
 Executing runtime...
@@ -122,7 +118,7 @@ Executing runtime...
 
 ---
 
-## GitHub Analytics
+# GitHub Analytics
 
 <div align="center">
 
@@ -142,7 +138,7 @@ Executing runtime...
 
 ---
 
-## GitHub Trophies
+# GitHub Trophies
 
 <div align="center">
 
@@ -152,7 +148,7 @@ Executing runtime...
 
 ---
 
-## Contribution Animation
+# Contribution Animation
 
 <div align="center">
 
@@ -162,7 +158,7 @@ Executing runtime...
 
 ---
 
-## Connect With Me
+# Connect With Me
 
 <div align="center">
 
@@ -190,7 +186,7 @@ Executing runtime...
 
 <div align="center">
 
-### "Crafting experiences through code."
+### Crafting experiences through code.
 
 <img src="https://komarev.com/ghpvc/?username=luxjson&style=for-the-badge&color=8A2BE2"/>
 
