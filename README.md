@@ -67,23 +67,6 @@ const Lucas = {
 | **AnalisAI** | Educational management platform that transforms assessment data into visual insights for competency monitoring. | `PERN Stack` • `PostgreSQL` • `SENAI` |
 | **Insomnia** | Narrative-driven indie horror game set in a world where time has stopped and silence becomes your greatest enemy. | `Game Development` • `v0.03b` |
 
-# Mission
-
-```bash
-> Loading objectives...
-
-[██████████] Full Stack Development
-
-[████████░░] Interactive Systems
-
-[████████░░] Game Design
-
-[██████████] Digital Experiences
-
-STATUS:
-Executing runtime...
-```
-
 
 # Analytics
 
