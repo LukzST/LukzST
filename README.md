@@ -134,9 +134,7 @@ Executing runtime...
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Quickdraw-In%20Progress-7dcfff?style=for-the-badge&logo=github" />
-<img src="https://img.shields.io/badge/Pull%20Shark-In%20Progress-7aa2f7?style=for-the-badge&logo=github" />
-<img src="https://img.shields.io/badge/YOLO-In%20Progress-bb9af7?style=for-the-badge&logo=github" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=luxjson&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 
 </div>
 
