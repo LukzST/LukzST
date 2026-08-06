@@ -1,6 +1,6 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=280&color=0:030712,30:0f172a,70:1d4ed8,100:3b82f6&text=luxjson&fontFamily=Orbitron&fontSize=75&fontColor=ffffff&stroke=1d4ed8&strokeWidth=1&animation=fadeIn&fontAlignY=45"/>
-
-
+<div align="center">
+  <img width="100%" src="https://i.pinimg.com/originals/af/8d/63/af8d63a477078732b79ff9d9fc60873f.gif" alt="Header luxjson" />
+</div>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=2500&pause=800&color=C084FC&center=true&vCenter=true&width=900&lines=SYSTEM+BOOTING...;GAME+DEV+%2C%7C+FULL+STACK+DEVELOPER;PERN+STACK+%7C+JAVASCRIPT;INTERACTIVE+SYSTEMS+%7C+INDIE+GAMES;WELCOME+TO+MY+CODE+UNIVERSE"/>
 
