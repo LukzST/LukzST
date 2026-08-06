@@ -19,8 +19,6 @@ Initializing system...
 STATUS: ONLINE
 ```
 
----
-
 # About Me
 
 ```javascript
@@ -69,15 +67,12 @@ const Lucas = {
 };
 ```
 
----
-
 # Stack
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=js,react,nextjs,nodejs,express,postgres,html,css,git,github,vscode,vercel,netlify&perline=5" />
 </div>
 
----
 
 # Featured Projects
 
@@ -86,8 +81,6 @@ const Lucas = {
 | **LIGHT** | Psychological horror game focused on narrative, terminal interaction, and immersive storytelling. Play as Operator 07 and survive the Fade. | `JavaScript` • `Canvas API` • `Terminal System` |
 | **AnalisAI** | Educational management platform that transforms assessment data into visual insights for competency monitoring. | `PERN Stack` • `PostgreSQL` • `SENAI` |
 | **Insomnia** | Narrative-driven indie horror game set in a world where time has stopped and silence becomes your greatest enemy. | `Game Development` • `v0.03b` |
-
----
 
 # Mission
 
@@ -106,7 +99,6 @@ STATUS:
 Executing runtime...
 ```
 
----
 
 # Analytics
 
@@ -126,8 +118,6 @@ Executing runtime...
 
 </div>
 
----
-
 # Achievements
 
 <div align="center">
@@ -136,8 +126,6 @@ Executing runtime...
 
 </div>
 
----
-
 # Contributions
 
 <div align="center">
@@ -145,7 +133,7 @@ Executing runtime...
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=luxjson&theme=react-dark&hide_border=true" />
 
 </div>
----
+
 
 # Connect With Me
 
@@ -170,8 +158,6 @@ Executing runtime...
 <div align="center">
 <b>Discord:</b> <code>luxjson</code>
 </div>
-
----
 
 <div align="center">
 
