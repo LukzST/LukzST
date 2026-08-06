@@ -121,9 +121,9 @@ Executing runtime...
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=luxjson&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
+<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=luxjson&show_icons=true&theme=tokyonight&hide_border=true" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luxjson&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
+<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=luxjson&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -131,7 +131,7 @@ Executing runtime...
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=luxjson&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=luxjson&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -141,7 +141,7 @@ Executing runtime...
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=luxjson&theme=tokyonight&no-frame=true&margin-w=15&row=1"/>
+<img src="https://github-profile-trophy.vercel.app/?username=luxjson&theme=tokyonight&row=1" />
 
 </div>
 
@@ -151,7 +151,7 @@ Executing runtime...
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=luxjson&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=luxjson&theme=react-dark&hide_border=true" />
 
 </div>
 
