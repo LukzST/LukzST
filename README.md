@@ -1,5 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:0F172A,30:1D4ED8,70:3B82F6,100:60A5FA&text=luxjson&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Building%20interactive%20experiences.&descSize=22&descAlignY=58"/>
-
+<<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:050816,50:0EA5E9,100:38BDF8&text=luxjson&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Game%20Developer%20•%20Full%20Stack%20Developer&descAlignY=58&descSize=20"/>
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2500&pause=800&color=38BDF8&center=true&vCenter=true&width=900&lines=GAME+DEV+%26+FULL+STACK+DEVELOPER;BUILDING+INTERACTIVE+SYSTEMS+%26+INDIE+GAMES;PERN+STACK+%7C+JAVASCRIPT+%7C+WEB+APIs;CRAFTING+EXPERIENCES+THROUGH+CODE" alt="Typing Animation" />
 </div>
