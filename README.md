@@ -1,6 +1,7 @@
 <div align="center">
-  <img width="100%" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2FwdGFwbGJvd3M2ZG9yMzN6eGprZXRidm5nZzlsbzB5dmI5OWpsOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT1R3st1yI9w248wR2/giphy.gif" alt="luxjson header" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=250&color=0:020617,50:0f2771,100:1d4ed8&text=luxjson&fontFamily=Press%20Start%202P&fontSize=50&fontColor=ffffff&stroke=38bdf8&strokeWidth=2&animation=twinkle&fontAlignY=50"/>
 </div>
+
 
 
 
