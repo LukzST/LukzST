@@ -144,10 +144,9 @@ Executing runtime...
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=luxjson&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=luxjson&theme=react-dark&hide_border=true" />
 
 </div>
-
 ---
 
 # Connect With Me
