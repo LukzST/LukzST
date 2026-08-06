@@ -76,7 +76,7 @@ const Lucas = {
 # Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,react,nextjs,nodejs,express,postgres,html,css,git,github,vscode,render,vercel,netlify,aseprite&perline=5" />
+  <img src="https://skillicons.dev/icons?i=js,react,nextjs,nodejs,express,postgres,html,css,git,github,vscode,vercel,netlify&perline=5" />
 </div>
 
 ---
