@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/luxjson">
-    <img src="https://readme-typing-svg.demolab.com/?lines=luxjson&font=Fira%20Code&center=true&width=440&height=120&color=f75c7e&vCenter=true&pause=1000&size=72" />
+    <img src="https://readme-typing-svg.demolab.com/?lines=LUXJSON&font=Fira%20Code&center=true&width=440&height=120&color=f75c7e&vCenter=true&pause=1000&size=72" />
   </a>
 </p>
 
