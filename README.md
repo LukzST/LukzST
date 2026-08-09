@@ -1,17 +1,6 @@
 <p align="center">
   <a href="https://github.com/luxjson">
-    <h1 align="center" style="
-    font-family: 'JetBrains Mono', 'Fira Code', monospace;
-    font-size: 7rem;
-    color: '#f75c7e';
-    font-weight: 800;
-    background: linear-gradient(135deg, #7aa2f7 0%, #bb9af7 50%, #7dcfff 100%);
-    background-clip: text;
-    text-shadow: 0 0 30px rgba(122, 162, 247, 0.3);
-    letter-spacing: 4px;
-    text-transform: uppercase;
-    margin: 20px 0;
-  ">LUXJSON</h1>
+    <img src="https://readme-typing-svg.demolab.com/?lines=luxjson&font=Fira%20Code&center=true&width=440&height=120&color=f75c7e&vCenter=true&pause=1000&size=72" />
   </a>
 </p>
 
