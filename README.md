@@ -2,7 +2,7 @@
   <a href="https://github.com/luxjson">
     <p align="center" style="
     font-family: 'JetBrains Mono', 'Fira Code', monospace;
-    font-size: 4rem;
+    font-size: 7rem;
     color: '#f75c7e';
     font-weight: 800;
     background: linear-gradient(135deg, #7aa2f7 0%, #bb9af7 50%, #7dcfff 100%);
