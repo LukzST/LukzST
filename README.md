@@ -1,14 +1,12 @@
 <p align="center">
   <a href="https://github.com/luxjson">
-    <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:1a1b26,30:7aa2f7,70:bb9af7,100:7dcfff&text=luxjson&fontSize=48&fontColor=c0caf5&animation=fadeIn&fontAlignY=40&desc=Building%20interactive%20experiences.&descSize=18&descAlignY=58" alt="luxjson" />
-  </a>
+    <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:1a1b26,30:7aa2f7,70:bb9af7,100:7dcfff&text=luxjson&fontSize=48&fontColor=c0caf5&animation=fadeIn&fontAlignY=40&desc=Building%20interactive%20experiences.&descSize=18&descAlignY=60" alt="luxjson" /></a>
 </p>
 
 <p align="center">
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=GAME+DEV+%26+FULL+STACK+DEVELOPER;BUILDING+INTERACTIVE+SYSTEMS+%26+INDIE+GAMES;PERN+STACK+%7C+JAVASCRIPT+%7C+WEB+APIs;CRAFTING+EXPERIENCES+THROUGH+CODE&font=JetBrains%20Mono&center=true&width=900&height=45&color=7DCFFF&vCenter=true&pause=1000&size=24" />
-  </a>
+    <img src="https://readme-typing-svg.demolab.com/?lines=GAME+DEV+%26+FULL+STACK+DEVELOPER;BUILDING+INTERACTIVE+SYSTEMS+%26+INDIE+GAMES;PERN+STACK+%7C+JAVASCRIPT+%7C+WEB+APIs;CRAFTING+EXPERIENCES+THROUGH+CODE&font=JetBrains%20Mono&center=true&width=900&height=45&color=7DCFFF&vCenter=true&pause=1000&size=24" /></a>
 </p>
 
 <!-- Social icons section -->
@@ -24,7 +22,9 @@
 
 <br/>
 
-<!-- Badges section -->
+<!-- Social badges section -->
+<!-- Badges with custom icons - https://github.com/DenverCoder1/custom-icon-badges -->
+<!-- View counter - https://github.com/DenverCoder1/Simple-View-Counter -->
 <p align="center">
   <a href="https://github.com/luxjson?tab=repositories&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/luxjson?color=7aa2f7&style=for-the-badge&labelColor=1a1b26&logo=star"/></a>
@@ -35,6 +35,7 @@
 </p>
 
 <br/>
+
 
 <details open>
   <summary><h2>👨‍💻 About Me</h2></summary>
