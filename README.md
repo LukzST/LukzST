@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/luxjson">
-    <p align="center" style="
+    <h1 align="center" style="
     font-family: 'JetBrains Mono', 'Fira Code', monospace;
     font-size: 7rem;
     color: '#f75c7e';
@@ -11,7 +11,7 @@
     letter-spacing: 4px;
     text-transform: uppercase;
     margin: 20px 0;
-  ">LUXJSON</p>
+  ">LUXJSON</h1>
   </a>
 </p>
 
