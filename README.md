@@ -14,7 +14,9 @@
 <!-- Social icons section -->
 
 <p align="center">
-<a href="https://www.youtube.com/c/luxjson"><img width="32px" alt="Youtube" title="luxjson on Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a>
+<a href="https://www.youtube.com/c/luxjson">
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 640"><!--!Font Awesome Free v7.3.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2026 Fonticons, Inc.--><path d="M581.7 188.1C575.5 164.4 556.9 145.8 533.4 139.5C490.9 128 320.1 128 320.1 128C320.1 128 149.3 128 106.7 139.5C83.2 145.8 64.7 164.4 58.4 188.1C47 231 47 320.4 47 320.4C47 320.4 47 409.8 58.4 452.7C64.7 476.3 83.2 494.2 106.7 500.5C149.3 512 320.1 512 320.1 512C320.1 512 490.9 512 533.5 500.5C557 494.2 575.5 476.3 581.8 452.7C593.2 409.8 593.2 320.4 593.2 320.4C593.2 320.4 593.2 231 581.8 188.1zM264.2 401.6L264.2 239.2L406.9 320.4L264.2 401.6z"/></svg>
+</a>
 &#8287;&#8287;&#8287;&#8287;&#8287;
 <a href="https://www.linkedin.com/in/luxjson/"><img width="32px" alt="LinkedIn" title="luxjson on LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
 &#8287;&#8287;&#8287;&#8287;&#8287;
