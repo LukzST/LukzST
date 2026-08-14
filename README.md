@@ -15,7 +15,7 @@
 
 <p align="center">
   <a href="https://www.youtube.com/c/luxjson" target="_blank">
-    <img src="https://skillicons.dev/icons?i=yt" width="48" height="48" alt="YouTube" />
+    <img src="https://skillicons.dev/icons?i=youtube" width="48" height="48" alt="YouTube" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/luxjson/" target="_blank">
