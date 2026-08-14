@@ -14,19 +14,16 @@
 <!-- Social icons section -->
 
 <p align="center">
-  <!-- YouTube -->
   <a href="https://www.youtube.com/c/luxjson" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/youtube.svg" width="35" height="35" alt="YouTube" style="filter: invert(18%) sepia(100%) saturate(7414%) hue-rotate(358deg) brightness(98%) contrast(118%);" />
+    <img src="https://skillicons.dev/icons?i=yt" width="48" height="48" alt="YouTube" />
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <!-- LinkedIn -->
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/luxjson/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/linkedin.svg" width="35" height="35" alt="LinkedIn" />
+    <img src="https://skillicons.dev/icons?i=linkedin" width="48" height="48" alt="LinkedIn" />
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <!-- DEV.to -->
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://dev.to/luxjson" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/devto.svg" width="35" height="35" alt="DEV.to" />
+    <img src="https://skillicons.dev/icons?i=dev" width="48" height="48" alt="DEV.to" />
   </a>
 </p>
 <br/>
