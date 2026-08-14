@@ -23,7 +23,7 @@
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://dev.to/luxjson" target="_blank">
-    <img src="https://skillicons.dev/icons?i=devto" width="48" height="48" alt="DEV.to" />
+    <img src="https://skillicons.dev/icons?i=devto" width="48" height="48" alt="DEV.to" fill="#6db3dd"/>
   </a>
 </p>
 <br/>
