@@ -11,18 +11,6 @@
 </a>
 </p>
 
-<!-- Social icons section -->
-
-<p align="center">
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/luxjson/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="48" height="48" alt="LinkedIn" />
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://dev.to/luxjson" target="_blank">
-    <img src="https://skillicons.dev/icons?i=devto" width="48" height="48" alt="DEV.to" />
-  </a>
-</p>
 <br/>
 
 <details open>
