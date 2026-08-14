@@ -14,16 +14,19 @@
 <!-- Social icons section -->
 
 <p align="center">
+  <!-- YouTube (Vermelho) -->
   <a href="https://www.youtube.com/c/luxjson" target="_blank">
-    <img src="https://skillicons.dev/icons?i=youtube" width="48" height="48" alt="YouTube" />
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;
+  <!-- LinkedIn (Azul Oficial) -->
   <a href="https://www.linkedin.com/in/luxjson/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="48" height="48" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;
+  <!-- DEV.to (Preto) -->
   <a href="https://dev.to/luxjson" target="_blank">
-    <img src="https://skillicons.dev/icons?i=dev" width="48" height="48" alt="DEV.to" />
+    <img src="https://img.shields.io/badge/DEV.to-0A0A0A?style=for-the-badge&logo=devto&logoColor=white" alt="DEV.to" />
   </a>
 </p>
 <br/>
