@@ -7,7 +7,7 @@
 <p align="center">
 <!-- Typing SVG by luxjson - https://github.com/DenverCoder1/readme-typing-svg -->
 <a href="https://github.com/DenverCoder1/readme-typing-svg">
-<img src="https://readme-typing-svg.demolab.com/?lines=GAME+DEV+%26+WEB+DEVELOPER;BUILDING+INTERACTIVE+%26+INDIE+GAMES;PERN+STACK+%7C+JAVASCRIPT+%7C+WEB+APIs;CRAFTING+EXPERIENCES+THROUGH+CODE&font=Fira%20Code&center=true&width=840&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" />
+<img src="https://readme-typing-svg.demolab.com/?lines=GAME+DEV+%26+WEB+DEVELOPER;BUILDING+INTERACTIVE+%26+INDIE+GAMES;PERN+STACK+%7C+JAVASCRIPT+%7C+WEB+APIs;CRAFTING+EXPERIENCES+THROUGH+CODE&font=Fira%20Code&center=true&width=840&color=f75c7e&vCenter=true&pause=1000&size=22" />
 </a>
 </p>
 
