@@ -35,7 +35,7 @@ const Lucas = {
   stack: {
     frontend: ["React", "Next.js", "JavaScript", "HTML", "CSS"],
     backend: ["Node.js", "Express", "PostgreSQL"],
-    gamedev: ["JavaScript", "Canvas API", "Web APIs", "Aseprite"]
+    gamedev: ["JavaScript", "GameMaker", "Aseprite"]
   },
   tools: ["Git", "GitHub", "Render", "Vercel", "VS Code"],
   mission: "Building immersive digital experiences through clean code, game design, and interactive systems."
