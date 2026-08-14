@@ -14,13 +14,33 @@
 <!-- Social icons section -->
 
 <p align="center">
-<a href="https://www.youtube.com/c/luxjson">
-  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 640"><!--!Font Awesome Free v7.3.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2026 Fonticons, Inc.--><path d="M581.7 188.1C575.5 164.4 556.9 145.8 533.4 139.5C490.9 128 320.1 128 320.1 128C320.1 128 149.3 128 106.7 139.5C83.2 145.8 64.7 164.4 58.4 188.1C47 231 47 320.4 47 320.4C47 320.4 47 409.8 58.4 452.7C64.7 476.3 83.2 494.2 106.7 500.5C149.3 512 320.1 512 320.1 512C320.1 512 490.9 512 533.5 500.5C557 494.2 575.5 476.3 581.8 452.7C593.2 409.8 593.2 320.4 593.2 320.4C593.2 320.4 593.2 231 581.8 188.1zM264.2 401.6L264.2 239.2L406.9 320.4L264.2 401.6z"/></svg>
-</a>
-&#8287;&#8287;&#8287;&#8287;&#8287;
-<a href="https://www.linkedin.com/in/luxjson/"><img width="32px" alt="LinkedIn" title="luxjson on LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
-&#8287;&#8287;&#8287;&#8287;&#8287;
-<a href="https://dev.to/luxjson"><img width="32px" alt="Dev.to" title="luxjson on Dev.to" src="https://i.imgur.com/mVm29vK.png"></a>
+  <!-- YouTube -->
+  <a href="https://www.youtube.com/c/luxjson" target="_blank" rel="noopener noreferrer">
+    <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 576 512" style="vertical-align: middle; fill: #FF0000;">
+      <!-- Font Awesome Free by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free -->
+      <path d="M549.655 124.083c-6.281-23.65-24.787-42.276-48.284-48.597C458.781 64 288 64 288 64S117.22 64 74.629 75.486c-23.497 6.322-42.003 24.947-48.284 48.597-11.412 42.867-11.412 132.305-11.412 132.305s0 89.438 11.412 132.305c6.281 23.65 24.787 41.5 48.284 47.821C117.22 448 288 448 288 448s170.78 0 213.371-11.486c23.497-6.321 42.003-24.171 48.284-47.821 11.412-42.867 11.412-132.305 11.412-132.305s0-89.438-11.412-132.305zm-317.51 213.508V175.185l142.739 81.206-142.739 81.200z"/>
+    </svg>
+  </a>
+
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/luxjson/" target="_blank" rel="noopener noreferrer">
+    <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 448 512" style="vertical-align: middle; fill: #0A66C2;">
+      <!-- Font Awesome Free by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free -->
+      <path d="M416 32H31.9C14.3 32 0 46.5 0 64.3v383.4C0 465.5 14.3 480 31.9 480H416c17.6 0 32-14.5 32-32.3V64.3c0-17.8-14.4-32.3-32-32.3zM135.4 416H69V202.2h66.5V416zm-33.2-243c-21.3 0-38.5-17.3-38.5-38.5S80.9 96 102.2 96c21.2 0 38.5 17.3 38.5 38.5 0 21.3-17.2 38.5-38.5 38.5zm282.1 243h-66.4V312c0-24.8-.5-56.7-34.5-56.7-34.6 0-39.9 27-39.9 54.9V416h-66.4V202.2h63.7v29.2h.9c8.9-16.8 30.6-34.5 62.9-34.5 67.2 0 79.7 44.3 79.7 101.9V416z"/>
+    </svg>
+  </a>
+
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+  <!-- DEV.to -->
+  <a href="https://dev.to/luxjson" target="_blank" rel="noopener noreferrer">
+    <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 448 512" style="vertical-align: middle; fill: #0A0A0A;">
+      <!-- Font Awesome Free by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free -->
+      <path d="M120.12 208.29c-3.88-2.9-8.55-4.35-14.02-4.35H91.61v104.14h14.49c5.47 0 10.14-1.45 14.02-4.35 3.88-2.9 5.82-7.25 5.82-13.06v-69.32c0-5.81-1.94-10.16-5.82-13.06zM400 32H48C21.5 32 0 53.5 0 80v352c0 26.5 21.5 48 48 48h352c26.5 0 48-21.5 48-48V80c0-26.5-21.5-48-48-48zM151.51 322.28c-7.75 10.16-19.19 15.24-34.33 15.24H67.22V174.48h50.1c15.14 0 26.58 5.08 34.33 15.24 7.75 10.16 11.63 24.39 11.63 42.69v47.18c0 18.3-3.88 32.53-11.77 42.69zm88.86-98.71h-39.7v30.48h39.7v28.23h-39.7v32.26h47.45v23.23h-71.83V174.48h71.83v23.23h-47.45v25.86zm102.82 82.52c-10.65 21.45-28.71 32.18-54.19 32.18-25.48 0-43.55-10.73-54.19-32.18-10.65-21.45-15.97-50.65-15.97-87.6 0-36.95 5.32-66.15 15.97-87.6 10.65-21.45 28.71-32.18 54.19-32.18 25.48 0 43.55 10.73 54.19 32.18 10.65 21.45 15.97 50.65 15.97 87.6 0 36.95-5.32 66.15-15.97 87.6z"/>
+    </svg>
+  </a>
 </p>
 
 <br/>
